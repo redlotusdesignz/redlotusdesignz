@@ -2,7 +2,7 @@
 
 # Hola! So glad to see you here 🐮
 
-I'm a customer support veteran who decided to embark on my frontend web development journey. I was laid off from my job back in March 2020 when the COVID-19 pandemic started. I started writing my tech articles back in February 2020 on [DEV.to](http://dev.to/redlotusdesignz) & [Hashnode](http://redlotusdesignz.hashnode.dev) as a way of logging my progress, while providing my tips to other aspiring developers. My current interest is working with JAMstack and providing ways on making websites more accessible for visitors. 
+I'm a customer support veteran who decided to embark on my frontend web development journey. I was laid off from my job back in early 2020 when the COVID-19 pandemic started. I started writing my tech articles back in February 2020 on [DEV.to](http://dev.to/redlotusdesignz) & [Hashnode](http://redlotusdesignz.hashnode.dev) as a way of logging my progress, while providing my tips to other aspiring developers. My current interest is working with JAMstack and providing ways on making websites more accessible for visitors. 
 
 ## Fun facts about me 🌙
 
@@ -13,8 +13,6 @@ I'm a customer support veteran who decided to embark on my frontend web developm
 👩🏻‍💻I play *The Sims 4* using mods and custom content. I sometimes create my own outfits for my characters.
 
 📚 I love to read romance and cozy mysteries books. 
-
-🔮I’m a former professional tarot reader. No, I never predicted lottery numbers. 
 
 ☕ I'm a Tea Drops Brand Ambassador! If you love tea, you can take 20% off your order using my discount code BA-DIANA20 on their [website](https://bit.ly/3h2v3aJ). 
 
