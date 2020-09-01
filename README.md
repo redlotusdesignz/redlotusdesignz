@@ -16,8 +16,6 @@ I'm a customer support veteran who decided to embark on my frontend web developm
 
 ☕ I'm a Tea Drops Brand Ambassador! If you love tea, you can take 20% off your order using my discount code BA-DIANA20 on their [website](https://bit.ly/3h2v3aJ). 
 
-🎵 I play the ocarina! You can check out my music covers [here](http://ocarinacow.com). 
-
 ## Get in touch with me 💬
 
 I'm active on [Twitter](http://twitter.com/redlotusdesignz) if you want to chat & connect with me! You can also send me an [email](mailto:dchin@redlotusdesignz.com) here as well. 
