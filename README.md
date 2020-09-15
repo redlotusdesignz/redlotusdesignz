@@ -2,7 +2,7 @@
 
 # Hola! So glad to see you here 🐮
 
-I'm a customer support veteran who loves learning more frontend technologies in hopes to build better websites & apps. I started writing my tech articles back in February 2020 on [DEV.to](http://dev.to/redlotusdesignz) & [Hashnode](http://redlotusdesignz.hashnode.dev) as a way of logging my progress, while providing my tips to other aspiring developers. My current interest is working with JAMstack and providing ways on making websites more accessible for visitors. 
+I started writing my tech articles back in February 2020 on [DEV.to](http://dev.to/redlotusdesignz) & [Hashnode](http://redlotusdesignz.hashnode.dev) as a way of logging my progress, while providing my tips to other aspiring developers. My current interest is working with JAMstack and providing ways on making websites more accessible for visitors. 
 
 ## Fun facts about me 🌙
 
