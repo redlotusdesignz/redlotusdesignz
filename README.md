@@ -6,7 +6,7 @@ I'm a customer support veteran who is currently learning full-stack web developm
 
 ## Fun facts about me 🌙
 
-🎨 I'm an illustrator and a teacher at Skillshare where I help students create webcomics. You can find out more about my illustration work at http://redlotusdesignz.com/.
+🎨 I'm an illustrator teacher at Skillshare where I help students create webcomics. You can enroll in my class [here](https://skl.sh/3fxrr02).
 
 🎮 I develop visual novel games using Ren’Py! You can check out my work over at my [itch.io profile](http://redlotusdesignz.itch.io). 
 
