@@ -2,11 +2,11 @@
 
 # Hola! So glad to see you here 🐮
 
-I'm a customer support veteran who is currently learning full-stack web development. I started writing my tech articles back in February 2020 on [DEV.to](http://dev.to/redlotusdesignz) & [Hashnode](http://redlotusdesignz.hashnode.dev) as a way of logging my progress, while providing my tips to other aspiring developers. My current interest is working with JAMstack and providing ways on making websites more accessible for visitors. 
+I'm a customer support veteran who is currently learning full-stack web development. I started writing my tech articles related to web design back in February 2020 on [DEV.to](http://dev.to/redlotusdesignz) & [Hashnode](http://redlotusdesignz.hashnode.dev) as a way of logging my progress, while providing my tips to other aspiring designers. My current interest is working with JAMstack and providing ways on making websites more accessible for visitors. 
 
 ## Fun facts about me 🌙
 
-🎨 I'm an illustrator teacher at Skillshare where I help students create webcomics. You can enroll in my class [here](https://skl.sh/3fxrr02).
+🎨 I'm an art teacher at Skillshare where I help students create webcomics. You can enroll in my class [here](https://skl.sh/3fxrr02).
 
 🎮 I develop visual novel games using Ren’Py! You can check out my work over at my [itch.io profile](http://redlotusdesignz.itch.io). 
 
