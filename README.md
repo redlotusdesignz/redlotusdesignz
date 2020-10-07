@@ -2,19 +2,17 @@
 
 # Hola! So glad to see you here 🐮
 
-I'm a customer support veteran who is currently learning frontend web development. I started writing my tech articles related to web design back in February 2020 on [DEV.to](http://dev.to/redlotusdesignz) & [Hashnode](http://redlotusdesignz.hashnode.dev) as a way of logging my progress, while providing my tips to other aspiring designers. My current interest is working with JAMstack and providing ways on making websites more accessible for visitors. 
+I'm a freelance web designer who is currently studying software testing. My background is in customer support, where I helped clients troubleshoot technical cases and billing issues within SaaS companies. For fun, I develop visual novel games using Ren'Py. I started writing my tech articles back in February 2020 as I enjoy writing and sharing my thoughts with the tech community. 
 
 ## Fun facts about me 🌙
-
-🎨 I'm an art teacher at Skillshare where I help students create webcomics. You can enroll in my class [here](https://skl.sh/3fxrr02).
-
-🎮 I develop visual novel games using Ren’Py! You can check out my work over at my [itch.io profile](http://redlotusdesignz.itch.io). 
 
 👩🏻‍💻I play *The Sims 4* using mods and custom content. I sometimes create my own outfits for my characters.
 
 📚 I love to read romance and cozy mysteries books. 
 
-☕ I'm a Tea Drops Brand Ambassador! If you love tea, you can take 20% off your order using my discount code BA-DIANA20 on their [website](https://bit.ly/3h2v3aJ). 
+🎵 I listen to heavy metal music while I work and play.
+
+☕ I drink Teecchino herbal tea since caffeine is not my friend. 
 
 ## Get in touch with me 💬
 
