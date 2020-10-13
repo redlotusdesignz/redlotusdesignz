@@ -8,6 +8,8 @@ I'm a freelance web designer who is currently studying automation testing and fr
 
 👩🏻‍💻I play *The Sims 4* using mods and custom content. I sometimes create my own outfits for my characters.
 
+🎨 I teach a course on webcomics design via Skillshare. You can enroll in my course [here](https://skl.sh/3fxrr02).
+
 📚 I love to read romance and cozy mysteries books. 
 
 🎵 I listen to heavy metal music while I work and play.
