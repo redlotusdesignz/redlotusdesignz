@@ -2,7 +2,7 @@
 
 # Hola! So glad to see you here 🐮
 
-I'm a freelance web designer who is currently studying automation testing. My background is in customer support, where I helped clients troubleshoot technical cases and billing issues within SaaS companies. For fun, I develop visual novel games using Ren'Py. I started writing my tech articles back in February 2020 as I enjoy writing and sharing my thoughts with the tech community. 
+I'm a freelance web designer who is currently studying automation testing and frontend technologies. My background is in customer support, where I helped clients troubleshoot technical cases and billing issues within SaaS companies. For fun, I develop visual novel games using Ren'Py. I started writing my tech articles back in February 2020 as I enjoy writing and sharing my thoughts with the tech community. 
 
 ## Fun facts about me 🌙
 
