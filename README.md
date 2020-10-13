@@ -12,7 +12,7 @@ I'm a freelance web designer who is currently studying automation testing. My ba
 
 🎵 I listen to heavy metal music while I work and play.
 
-☕ I drink Teecchino herbal tea since caffeine is not my friend. 
+☕ I drink Teecchino herbal tea as I'm sensitive to caffeine.
 
 ## Get in touch with me 💬
 
