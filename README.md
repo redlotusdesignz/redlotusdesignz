@@ -2,7 +2,7 @@
 
 # Hola! So glad to see you here 🐮
 
-I'm a programmer who is currently studying automation testing and front-end technologies. I write my articles on Hashnode related to web design and visual novel game development. My background is in customer support, where I help clients troubleshoot technical cases and provide creative solutions within the SaaS & E-Commerce industries. For fun, I create webcomics as part of my ongoing series "Lotus Cow Comics", which are available to read via [WEBTOON Canvas](https://www.webtoons.com/en/challenge/lotus-cow-comics/list?title_no=364889&page=1) and [Tapas](https://tapas.io/series/lotuscowcomics).
+I'm a freelance web designer who is currently studying automation testing and front-end technologies. I write my articles on Hashnode related to web design and visual novel game development. My background is in customer support, where I help clients troubleshoot technical cases and provide creative solutions within the SaaS & E-Commerce industries. For fun, I create webcomics as part of my ongoing series "Lotus Cow Comics", which are available to read via [WEBTOON Canvas](https://www.webtoons.com/en/challenge/lotus-cow-comics/list?title_no=364889&page=1) and [Tapas](https://tapas.io/series/lotuscowcomics).
 
 ### Five facts about me: 
 
