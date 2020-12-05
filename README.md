@@ -2,7 +2,7 @@
 
 # Hola! So glad to see you here 🐮
 
-I develop visual novel games that are family-friendly over at [Itch.io](http://redlotusdesignz.itch.io). I write my articles on Hashnode related to web design and visual novel game development. For fun, I create webcomics as part of my ongoing series "Lotus Cow Comics", which are available to read via [WEBTOON Canvas](https://www.webtoons.com/en/challenge/lotus-cow-comics/list?title_no=364889&page=1) and [Tapas](https://tapas.io/series/lotuscowcomics).
+I develop visual novel games that are family-friendly over at [Itch.io](http://redlotusdesignz.itch.io). I write my articles on [Hashnode](http://thecodingcow.com) related to web design and visual novel game development. For fun, I create webcomics as part of my ongoing series "Lotus Cow Comics", which are available to read via [WEBTOON Canvas](https://www.webtoons.com/en/challenge/lotus-cow-comics/list?title_no=364889&page=1) and [Tapas](https://tapas.io/series/lotuscowcomics).
 
 ### Five facts about me: 
 
