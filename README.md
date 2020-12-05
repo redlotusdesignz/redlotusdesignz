@@ -6,7 +6,7 @@ I'm a programmer who is currently studying automation testing and front-end tech
 
 ### Five facts about me: 
 
-👩🏻‍💻I play The Sims 4 using mods and custom content. I sometimes create my own outfits for my characters.
+👩🏻‍💻 I play The Sims 4 using mods and custom content. I sometimes create my own outfits for my characters.
 
 🎨 I teach a course on webcomics design via Skillshare! You can enroll in my course [here](https://skl.sh/3fxrr02). 
 
