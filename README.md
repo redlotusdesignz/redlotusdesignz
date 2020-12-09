@@ -10,7 +10,7 @@ I develop visual novel games that are family-friendly over at [Itch.io](http://r
 
 🎨 I teach a course on webcomics design via Skillshare! You can enroll in my course [here](https://skl.sh/3fxrr02). 
 
-📚 I write book reviews on romance, mystery, and paranormal/supernatural genres at [Substack](http://redlotusdesignz.substack.com).
+📚 I write reviews on books and visual novel games over at [Substack](http://redlotusdesignz.substack.com).
 
 🎵 I listen to heavy metal and lo-fi music while I work and play.
 
