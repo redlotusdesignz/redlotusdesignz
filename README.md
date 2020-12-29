@@ -2,7 +2,7 @@
 
 # Hola! So glad to see you here 🐮
 
-I develop visual novel games that are family-friendly over at [Itch.io](http://redlotusdesignz.itch.io). I also create webcomics as part of my ongoing series "Lotus Cow Comics", which are available to read via [WEBTOON Canvas](https://www.webtoons.com/en/challenge/lotus-cow-comics/list?title_no=364889&page=1) and [Tapas](https://tapas.io/series/lotuscowcomics). You can check out my articles over at [Hashnode](http://thecodingcow.com) where I blog about my coding adventures.
+I develop visual novel games that are family-friendly over at [Itch.io](http://redlotusdesignz.itch.io). I also create webcomics as part of my ongoing series "Lotus Cow Comics", which are available to read via [WEBTOON Canvas](https://www.webtoons.com/en/challenge/lotus-cow-comics/list?title_no=364889&page=1) and [Tapas](https://tapas.io/series/lotuscowcomics). You can check out my articles over at [Hashnode](http://thecodingcow.com) where I blog about my coding adventures. Currently, I'm studying test automation as my goal is to be a QA Engineer.
 
 ### Five facts about me: 
 
