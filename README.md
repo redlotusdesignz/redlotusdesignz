@@ -8,4 +8,4 @@ When I'm not working, you'll find me creating webcomics, developing visual novel
 
 ## Get in touch with me 💬
 
-I'm active on [Twitter](http://twitter.com/redlotusdesignz) if you want to chat & connect with me! You can also send me an [email](mailto:dchin@redlotusdesignz.com) here as well. 
+Send me an [email](mailto:dchin@redlotusdesignz.com) if you want to chat.
