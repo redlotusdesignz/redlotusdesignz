@@ -1,6 +1,4 @@
-![Sims character typing on computer](https://pbs.twimg.com/media/Efd-aUcWsAIr--M?format=jpg&name=large)
-
-# Hola! So glad to see you here 🐮
+# Hola! So glad to see you here.
 
 I'm a senior support engineer who is currently learning software testing principals along with data science. Previously, I freelanced as a web designer where I helped small businesses create websites under Squarespace and Shopify platforms. 
 
