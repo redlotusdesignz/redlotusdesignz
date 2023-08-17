@@ -1,3 +1,3 @@
-# Hola! So glad to see you here.
+# About Red Lotus Designz.
 
-I develop Visual Novel Games using Ren'Py. I love playing the Sims 4.
+Creator of “Lotus Cow Comics” (WEBTOON) and “Moo Times of Betsy” (VN game series on itch.io)
